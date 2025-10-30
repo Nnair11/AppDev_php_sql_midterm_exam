@@ -1,4 +1,4 @@
-**Application Development Midterm Examination using myphpadmin and mysql**
+<h3>**Application Development Midterm Examination using myphpadmin and mysql**</h3>
 
 Grocery Management System | Grocery Inventory Table
 
@@ -16,4 +16,6 @@ Each file is containg my answers in each of this problems:
 7. SHOW CODE DEMONSTRATING UPDATING OF RECORD FROM YOUR DATABASE
 8. SHOW CODE DEMONSTRATING AN SQL QUERY’S RESULT SET IS RENDERED ON AN HTML TABLE
 
+
+<h3>**My Final Output**</h3>
 <img width="2543" height="1350" alt="image" src="https://github.com/user-attachments/assets/cc2ecb53-0bad-4499-9e17-89409f227557" />
