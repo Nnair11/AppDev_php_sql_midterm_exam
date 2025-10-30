@@ -1,4 +1,4 @@
-<h1>Application Development Midterm Examination using myphpadmin and mysql</h1>
+<h2>Application Development Midterm Examination using myphpadmin and mysql</h2>
 
 Grocery Management System | Grocery Inventory Table
 
