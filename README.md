@@ -1,11 +1,29 @@
-<h2>Application Development Midterm Examination using myphpadmin and mysql</h2>
+<h1>Application Development Midterm Examination</h1>
 
 Grocery Management System | Grocery Inventory Table
 
-In this examination we students should create a grocery items table & configure a schema & database in myphpadmin. 
-by using a simple php & html code it demonstrate how I answer each problem given using the PDO method.
+This project is a Grocery Management System built as part of the Application Development Midterm Examination, using PHP, MySQL, and phpMyAdmin.
+It demonstrates the creation, configuration, and management of a complete database-driven web application that handles grocery items, suppliers, and categories efficiently.
+System Features
 
-Each file is containg my answers in each of this problems:
+The Grocery Inventory System includes:
+-A well-structured database schema with proper foreign key relationships.
+
+-Category and supplier linking, allowing items to be grouped and sourced properly.
+
+-Automatic timestamps for tracking when each product was added.
+
+-A modern HTML interface that presents all grocery items clearly and neatly.
+
+-Real-time data manipulation, ensuring that updates, deletions, and insertions are reflected immediately.
+
+-Secure PDO-based queries to prevent SQL injection and improve reliability.
+
+-In this examination we students should create a grocery items table & configure a schema & database in myphpadmin. 
+
+-by using a simple php & html code it demonstrate how I answer each problem given using the PDO method.
+
+Each file is have my answers in each of this problems:
 
 1. SCHEMA + DATABASE RECORDS
 2. SHOW CODE OF YOUR DBCONFIG.PHP FILE
