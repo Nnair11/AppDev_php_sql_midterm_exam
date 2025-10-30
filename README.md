@@ -1,1 +1,3 @@
-# AppDev_php_sql_midterm_exam
+Application Development Midterm Examination using php and mysql
+
+This exam contains the configuration of my
